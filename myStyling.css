@@ -1,0 +1,125 @@
+.playArea {
+    position: relative;
+    top: 200px;
+    left: 400px;
+}
+
+#player_1 {
+    position: absolute;
+    left: 450px;
+    top: 900px;
+    display: inline-block;
+}
+
+#p1_pot_area {
+    position: relative;
+    left: 10px;
+    top: -175px;
+}
+
+#player_2 {
+    position: absolute;
+    left: 30px;
+    top: 800px;
+    display: inline-block;
+    transform: rotate(45deg)
+}
+
+#p2_pot_area {
+    position: relative;
+    left: 0px;
+    top: -175px;
+}
+
+#player_3 {
+    position: absolute;
+    left: 5px;
+    top: 450px;
+    display: inline-block;
+    transform: rotate(90deg);
+}
+
+#p3_pot_area {
+    position: relative;
+    left: 0px;
+    top: -175px;
+}
+
+#player_4 {
+    position: absolute;
+    left: 30px;
+    top: 100px;
+    display: inline-block;
+    transform: rotate(120deg);
+}
+
+#p4_pot_area {
+    position: relative;
+    left: 0px;
+    top: -175px;
+}
+
+#player_5 {
+    position: absolute;
+    left: 430px;
+    top: 15px;
+    display: inline-block;
+}
+
+#p5_pot_area {
+    position: relative;
+    left: 5px;
+    top: 10px;
+}
+
+#player_6 {
+    position: absolute;
+    left: 850px;
+    top: 100px;
+    display: inline-block;
+    transform: rotate(235deg);
+}
+
+#p6_pot_area {
+    position: relative;
+    left: 0px;
+    top: -175px;
+}
+
+#player_7 {
+    position: absolute;
+    left: 950px;
+    top: 450px;
+    display: inline-block;
+    transform:  rotate(270deg);
+}
+
+#p7_pot_area {
+    position: relative;
+    left: 0px;
+    top: -175px;
+}
+
+
+#player_8 {
+    position: absolute;
+    left: 850px;
+    top: 820px;
+    display: inline-block;
+    transform: rotate(315deg);
+}
+
+#p8_pot_area {
+    position: relative;
+    left: 0px;
+    top: -175px;
+}
+
+
+
+.tableCards {
+position: relative;
+    left: 350px;
+    top: 460px;
+    display: inline-block;
+}
